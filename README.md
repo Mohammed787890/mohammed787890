@@ -11,4 +11,5 @@ My main tech stack is python, java, tableau, power bi and SQL.
 Fun Facts:
 
 I love coffee
+
 Hobbies: Football, gym, building things
